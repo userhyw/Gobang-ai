@@ -1,4 +1,5 @@
 # Gobang-ai
+原作者：https://github.com/livingsu/Gobang-ai
 极大极小搜索和α-β剪枝的无禁手ai，深度可达8层。  
 添加了简单的算杀模块。  
 
